@@ -21,7 +21,7 @@ main()
         b = i * 40 / 100;
         cout << "After Contributing 40% Your Marks will be : " << b << endl
              << endl;
-        cout << "Guess your Final number : ";
+        cout << "Guess your Final Number : ";
         cin >> c;
         d = c * 60 / 100;
         a = b + d;
