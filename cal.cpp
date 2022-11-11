@@ -7,7 +7,7 @@ main()
     for (;;)
     {
         cout << " Numerical        Letter Grade       Grade Point" << endl;
-        cout << "  90-100              A+	               4.00" << endl;
+        cout << "  90-100                A+	               4.00" << endl;
         cout << "  85-<90	             A	               3.75" << endl;
         cout << "  80-<85	             B+	               3.50" << endl;
         cout << "  75-<80	             B	               3.25" << endl;
